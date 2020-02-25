@@ -42,14 +42,17 @@ figure {
     color: #1b1b00;
 }
 
-
+section.menu{
+    background-color: #3d035e;
+    padding: 7px;
+}
 .menu a {
     padding: 10px;
     color: #1b1b00;
 }
 
 .menu a:hover {
-    padding-left: 15px;
+    padding: 10px;
     color: #ff4c00;
 }
 
@@ -65,38 +68,6 @@ body {
 
 .read-more {
     float: right;
-}
-
-.contact-form fieldset {
-    border-bottom: 0;
-    border-left: 0;
-    border-right: 0;
-}
-
-.contact-form legend {
-    width: 170px;
-    padding: 0 10px 0 10px;
-    margin-left: calc(50% - 70px);
-}
-
-.contact-form dl {
-    text-align: center;
-    line-height: 40px;
-}
-
-.contact-form input[type=text], .contact-form input[type=email] {
-    width: 300px;
-}
-
-.contact-form input[type=submit] {
-    background-color: #008CBA;
-    border: none;
-    color: white;
-    padding: 10px 24px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
 }
 
 .footer {
@@ -125,10 +96,7 @@ body {
   margin-left:  8%;
 }
 .top-menu{
-  padding-right: 150px;
   padding-top: 10px;
-  padding-bottom: 10px;
-  padding-left: 10%;
   background-color: #9c2df4;
   text-align: center;
   color: #ffffff
