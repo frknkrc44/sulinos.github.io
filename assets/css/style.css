@@ -35,15 +35,11 @@ figure {
 */
 
 .header {
-    height: 170px;
-    padding-bottom:20px;
     background-color: #a641f5;
+    color: #1b1b00;
 }
-
-.header h1 {
-    text-align: center;
-    padding-top: 40px;
-    letter-spacing: 4px;
+.header h1{
+    color: #1b1b00;
 }
 
 
