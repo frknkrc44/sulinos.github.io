@@ -39,7 +39,7 @@ figure {
     color: #1b1b00;
 }
 .header h1{
-    color: #1b1b00;
+    color: #ff4c00;
 }
 
 section.menu{
@@ -48,7 +48,7 @@ section.menu{
 }
 .menu a {
     padding: 10px;
-    color: #1b1b00;
+    color: #e4b5ff;
 }
 
 .menu a:hover {
@@ -56,9 +56,6 @@ section.menu{
     color: #ff4c00;
 }
 
-.menu a:hover {
-    background-color: white
-}
 
 
 body {
@@ -77,6 +74,7 @@ body {
     clear: both;
     text-align: center;
     line-height: 30px;
+    color: #ff4c00;
 }
 
 
