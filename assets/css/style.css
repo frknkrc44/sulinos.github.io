@@ -9,8 +9,10 @@ html, body {
   position: fixed;
 }
 #container {
-    margin: -25px;
-    padding: 25px
+    margin-top: -10%;
+    padding-top: 10%;
+    margin-bottom: -10%;
+    padding-bottom: 10%;
 }
 
 .toggleDark,
