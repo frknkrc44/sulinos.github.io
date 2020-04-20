@@ -1,0 +1,43 @@
+#container{
+    color: white;
+    background-image: url('../images/discovery-box-bg.png');
+}
+a:link,
+a:visited {
+    color: #fff;
+}
+.screenshot {
+  color: #ca7cf9;
+  background-color: #202020;
+}
+.developer {
+  color: #ca7cf9;
+  background-color: #202020;
+}
+.header {
+    color: #1b1b00;
+}
+.header h1{
+    color: #ca7cf9;
+}
+.menu a {
+    color: #e4b5ff;
+}
+
+.menu a:hover {
+    color: #ff4c00;
+}
+.footer {
+    color: #ff4c00;
+ }
+
+.footer a {
+    color: white;
+}
+.footer p {
+    color: #ca7cf9;
+}
+
+.top-menu{
+  color: #ffffff
+}

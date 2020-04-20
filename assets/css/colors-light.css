@@ -1,0 +1,42 @@
+#toggleMode:checked ~ #container{
+    color: black;
+    background-image: url('../images/discovery-box-bg-light.png');
+}
+#toggleMode:checked ~ #container a:link, a:visited {
+    color: #000;
+}
+#toggleMode:checked ~ #container .screenshot {
+  color: #ff4c00;
+  background-color: #555;
+}
+#toggleMode:checked ~ #container .developer {
+  color: #ff4c00;
+  background-color: #555;
+}
+
+#toggleMode:checked ~ #container .header {
+    color: #eb4034;
+}
+#toggleMode:checked ~ #container .header h1{
+    color: #eb4034;
+}
+#toggleMode:checked ~ #container .menu a {
+    color: #eb4034;
+}
+
+#toggleMode:checked ~ #container .menu a:hover {
+    color: #ff4c00;
+}
+#toggleMode:checked ~ #container .footer {
+    color: #ff4c00;
+ }
+
+#toggleMode:checked ~ #container .footer a {
+    color: 000;
+}
+#toggleMode:checked ~ #container .footer p {
+    color: #eb4034;
+}
+#toggleMode:checked ~ #container .top-menu{
+  color: #ffffff
+}
