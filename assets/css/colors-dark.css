@@ -1,10 +1,16 @@
-#container{
+body{
     color: white;
+    background-color: #17181f;
+}
+
+.content{
     background-image: url('../images/discovery-box-bg.png');
 }
-a:link,
-a:visited {
-    color: #fff;
+a {
+    color: #e2b3ff ;
+}
+a:hover {
+    color: #ff4c00;
 }
 .screenshot {
   color: #ca7cf9;
@@ -20,13 +26,7 @@ a:visited {
 .header h1{
     color: #ca7cf9;
 }
-.menu a {
-    color: #e4b5ff;
-}
 
-.menu a:hover {
-    color: #ff4c00;
-}
 .footer {
     color: #ff4c00;
  }
@@ -39,5 +39,5 @@ a:visited {
 }
 
 .top-menu{
-  color: #ffffff
+  color: white;
 }
