@@ -339,3 +339,9 @@ template {
 [hidden] {
     display: none;
 }
+/**
+ * Remove focus color
+ */
+:focus,:active {
+    -webkit-tap-highlight-color: transparent;
+}
