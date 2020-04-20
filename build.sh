@@ -6,7 +6,7 @@ build_page(){
 }
 #clear all html files
 rm -f *.html
-for i in index contact gallery
+for i in index contact gallery developers
 do
 	build_page $i
 done

@@ -32,12 +32,26 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 5px;
 }
 .screenshot {
   text-align: center;
   padding: 5px;
   background-color: #202020;
   border-radius: 5px;
+}
+.developer {
+  text-align: center;
+  padding: 5px;
+  background-color: #202020;
+  border-radius: 5px;
+}
+.developer img{
+  max-width: 300px;
+}
+table{
+  width: 100%;
+  height: auto;
 }
 /**
 * Header section
