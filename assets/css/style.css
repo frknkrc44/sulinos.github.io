@@ -1,4 +1,5 @@
 html, body {
+    vertical-align: top;
     padding:0;
     margin:0;
     width: 100%;
@@ -40,6 +41,9 @@ img {
 }
 .developer img{
   max-width: 300px;
+}
+.developer td,tr,th {
+  vertical-align: top;
 }
 table{
   width: 100%;
